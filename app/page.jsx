@@ -11,9 +11,7 @@ export default function Home() {
               Discover Package by Searching
             </h1>
             <p className="text-md md:text-lg text-base-content/80">
-              FeelFlix is an innovative app that helps you discover the perfect
-              movie to match your current mood. Whether you&apos;re feeling
-              happy, sad, adventurous, or nostalgic.
+              FindPack is an innovative app that helps you Package by Searching for your project.
             </p>
             <div className="flex gap-2">
               <Link
